@@ -1,0 +1,9 @@
+title: About Page
+intro: This is our site
+team:
+  - name: Sam
+    position: Leader
+    photo: /images/uploads/20200220_112658-1-.jpg
+  - name: Dylan
+    position: Bitch
+    photo: /images/uploads/rogershs-volunteers.jpg
