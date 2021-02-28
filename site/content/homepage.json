@@ -1,0 +1,14 @@
+{
+  "title": "Ampolic",
+  "cta": "Sign up today",
+  "about": {
+    "about": "We are a company",
+    "services": [
+      {
+        "name": "Web Design",
+        "price": "$35",
+        "photo": "/images/uploads/rogershs-volunteers.jpg"
+      }
+    ]
+  }
+}
